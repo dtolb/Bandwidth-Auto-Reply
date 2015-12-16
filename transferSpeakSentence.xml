@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<SpeakSentence gender="male" locale="en_US" voice="paul">Transferring your call, please wait.</SpeakSentence>
+	<Transfer transferCallerId="+11234567891" transferTo="+11234567892">
+		<SpeakSentence gender="male" locale="en_US" voice="paul">Inner speak sentence.</SpeakSentence>
+	</Transfer>
+</Response>

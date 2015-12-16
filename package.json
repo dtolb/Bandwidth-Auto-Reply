@@ -1,0 +1,24 @@
+{
+  "name": "comptel",
+  "version": "1.0.0",
+  "description": "bxml sms auto reply",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Not yet implemented",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Daniel Tolbert",
+  "license": "ISC",
+
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "express": "^4.13.3",
+    "node-bandwidth": "^1.2.4"
+  }
+}
